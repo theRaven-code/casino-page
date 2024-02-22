@@ -1,4 +1,3 @@
-import React from "react";
 import { useCategory } from "../context/CategoryContext";
 import newLabel from '../assets/new-label.png';
 import playBtn from '../assets/play-btn.png';
