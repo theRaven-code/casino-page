@@ -1,5 +1,3 @@
-// types.ts
-
 export interface Game {
   jackpotAmount: number;
   categories: string[];
